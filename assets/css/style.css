@@ -957,6 +957,7 @@ body.nav-active { overflow: hidden; }
 .about .container {
   display: grid;
   gap: 120px;
+  /* margin-top:-40rem; */
 }
 
 .about-banner {
@@ -1796,7 +1797,7 @@ textarea.input-field {
    */
 
   .about .container {
-    grid-template-columns: 0.7fr 1fr;
+    /* grid-template-columns: 0.7fr 1fr; */
     gap: 30px;
   }
 
